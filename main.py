@@ -82,6 +82,7 @@ while True:
         print("course changed successfully.")
 
     elif choice =="6":
+        exit()
 
         
         break
